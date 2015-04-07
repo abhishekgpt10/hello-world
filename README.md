@@ -1,2 +1,3 @@
 # hello-world
 yo man, starting...
+hi broi, I have just started how to use git, tutorials are very helpful.
